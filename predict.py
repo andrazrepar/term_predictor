@@ -405,7 +405,7 @@ start_time = time.time()
 generalCorpusUnigrams = 'resources/finalUnigramsGigafida.csv'
 vocab_general = 'resources/ccgigafida_averaged_lemmas-stanford.txt'
 model_path = "resources/all-domains.p"
-conllu_texts_dir = "data/conllus_davcni/_conllu"
+conllu_texts_dir = "corpora/conllus_davcni/_conllu"
 #conllu_texts_dir = "corpora/small_test"
 
 prepositions = ['brez', 'do', 'iz', 'z', 's', 'za', 'h', 'k', 'proti', 'kljub', 'čez', 'skozi', 'zoper', 'po', 'o', 'pri', 'po', 'z', 's', 'na', 'ob', 'v', 'med', 'nad', 'pod', 'pred', 'za']
